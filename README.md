@@ -1,5 +1,7 @@
 # Ejercicios propuestos en Platzi
 
+## Python
+
 Semana 1 - [Salida de mensajes](https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-primer-nivel-salida-de-mensajes/)
 
 Semana 2 - [Condicionales](https://platzi.com/comunidad/retos-de-programacion-para-cualquier-lenguaje-segundo-nivel-condicionales/)
@@ -11,3 +13,11 @@ Semana 4 - [Matemáticas](https://platzi.com/comunidad/retos-de-programacion-en-
 Semana 5 - [Ciclo 'for'](https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-quinto-nivel-ciclo-for/)
 
 Semana 6 - [Ciclo 'while'](https://platzi.com/comunidad/retos-de-programacion-en-cualquier-lenguaje-sexto-nivel-ciclo-while-2/)
+
+
+
+## JavaScript
+
+Semana 1 - Salida de mensajes
+
+Semana 2 - Condicionales
